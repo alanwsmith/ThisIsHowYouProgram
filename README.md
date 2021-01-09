@@ -1,11 +1,14 @@
 This Is How You Program
 =======================
 
-This is a project to create free educational tools to teach people of all ages to learn how to program while giving them the confidence to take on the world. 
+The name of this project has changed. It's now:
+
+    [ThisIsHowToCode](https://github.com/alanwsmith/ThisIsHowToCode)
+
+Come join the fun over there. 
+
+- alan 
 
 
-Ideas and TODOs
----------------
 
-- Make a 1s and 0s background
 
